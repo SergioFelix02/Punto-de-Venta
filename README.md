@@ -2,7 +2,7 @@
 <img src="src/com/images/readmeBlueLine.png" alt="Logo" width="280" height="20" align="center">
 <h3>Proyecto Final: Punto de venta</h3>
 
-Sistema de punto de venta con control de inventarios
+Sistema de punto de venta con control de inventarios realizado para la asignatura de Bases de Datos II
 
   <p>
     Integrantes:<br><br>
